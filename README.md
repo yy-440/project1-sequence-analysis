@@ -1,4 +1,4 @@
-# DNA Mismatch Analysis:
+# **DNA Mismatch Analysis:**
 
 ## **Title and Purpose:**
 
